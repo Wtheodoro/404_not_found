@@ -1,6 +1,6 @@
 # 404 Not Found
 
-![GIF]()
+![GIF](https://github.com/Wtheodoro/404_not_found/blob/main/public/Gif/preview.gif)
 
 A responsive web developer challenge by [DevChallenge.io](https://devchallenges.io/paths/responsive-web-developer)
 
