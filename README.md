@@ -9,7 +9,7 @@ A responsive web developer challenge by [DevChallenge.io](https://devchallenges.
 ### `clone`
 You can clone by using git clone on your terminal:
 
-    git clone https://github.com/Wtheodoro/my_wallet
+    git clone https://github.com/Wtheodoro/404_not_found
 
 You can clone by click on the GitHub green button "CODE" and download the .zip
 
